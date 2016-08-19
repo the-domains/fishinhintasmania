@@ -1,4 +1,3 @@
-layout_spectrum: 0.5728080091066658
 typography_spectrum: 0.638589687878266
 color:
   brandStrength: 0.7607928118668497
@@ -11,4 +10,6 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.5728080091066658
 name: fishinhintasmania
+title: fishing
