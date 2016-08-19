@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fishing]]></title>
+        <description><![CDATA[fishing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 06:46:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getbusi. Software for Web filtering, School Organisers, Web and Mobile App Projects · Getbusi]]></title>
+            <description><![CDATA[<article><h1>Getbusi. Software for Web filtering, School Organisers, Web and Mobile App Projects · Getbusi</h1><p>Getbusi. Smart tools to help you connect and manage your teams.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c14515b82a707a412709fabf5d679251/noop.png?input=http%3A%2F%2Fwww.getbusi.com%2Fimg%2Fidentity%2F2012_logo_livestream%402x.png"></article>]]></description>
+            <link>http://getbusi.com</link>
+            <guid isPermaLink="false">ac380aa4-b43d-4d8c-9f6f-8e81cc3ecaa7</guid>
+            <pubDate>Fri, 19 Aug 2016 06:46:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
